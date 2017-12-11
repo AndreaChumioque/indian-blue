@@ -1,5 +1,5 @@
 window.onload = function () {
-  debugger;
+
   var iconMenu = document.getElementById('show-menu');
   var navMenu = document.getElementById('nav-menu');
   
