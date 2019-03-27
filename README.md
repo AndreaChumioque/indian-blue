@@ -1,4 +1,4 @@
-# Mi página
+# Indian Blue Studio - Propuesta diseño
 
 ## Objetivo
 
